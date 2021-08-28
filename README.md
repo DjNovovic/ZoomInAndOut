@@ -1,0 +1,2 @@
+# ZoomInAndOut
+MagnificationGesture
